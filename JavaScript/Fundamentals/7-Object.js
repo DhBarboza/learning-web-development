@@ -3,7 +3,7 @@ const produto = {};
 
 // Adicionar uma chave e valor:
 produto.nome = "Poco X3 NFC";
-produto.preço = 1300.0;
+produto.prco = 1300.0;
 
 console.log(produto);
 
