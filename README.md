@@ -8,8 +8,4 @@ Repositório dedicado ao estudo do desenvolvimento web, utilizando as melhores p
 </div>
 <br >
 
-## JavaScript:
-
-### Fundamentos:
-
 
