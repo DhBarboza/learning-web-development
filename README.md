@@ -12,7 +12,4 @@ Repositório dedicado ao estudo do desenvolvimento web, utilizando as melhores p
 
 ### Fundamentos:
 
-- [Variáveis](/JavaScript/Fundamentals/1-variables.js)
-- [Tipos Numéricos](/JavaScript/Fundamentals/2-type-number.js)
-- [Operações com Math](/JavaScript/Fundamentals/3-math.js)
-- [Tipos textuais](/JavaScript/Fundamentals/4-type-string.js)
+
